@@ -1,0 +1,45 @@
+/* ------------------ */
+/* Table              */
+/* ------------------ */
+
+
+
+
+
+caption {
+  padding: 5px;
+
+}
+
+
+
+tr > td:first-of-type {
+  text-align: left;
+
+}
+
+tbody th {
+
+   text-align: justify;
+}
+
+table {
+  border: thin solid;
+  width: 500px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+thead th {
+  background-color: #ff0000;
+  color: #FFF;
+  text-align: center;
+}
+
+th, td {
+  border: thin solid;
+  text-align: center;
+  padding: 10px;
+}
